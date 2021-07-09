@@ -40,5 +40,5 @@
 [website]: https://weishengit.github.io/
 [linkedin]: https://www.linkedin.com/in/jules-daryl-diego/
 [github]: https://github.com/weishengit
-[gmail]: julesdaryldiego@gmail.com
+[gmail]: mailto: julesdaryldiego@gmail.com
 [#]: #
