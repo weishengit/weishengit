@@ -2,7 +2,7 @@
 
 ## I'm a Student, Programmer, and Developer!!
 
-- 🌱 I’m currently learning react.
+- 🌱 My current stack is laravel.
 - 👯 I’m looking join a team to utilize my skills.
 - 🥅 2021 Goals: Find work after finishing my studies.
 - ⚡ Fun fact: My dog is always next to me when I'm coding.
