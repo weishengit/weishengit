@@ -1,10 +1,10 @@
-### Hi there, I'm Jules - aka [weishengit][website]
+### Hi there, I'm Daryl - aka [weishengit][website]
 
 ## I'm a Student, Programmer, and Developer!!
 
-- 🌱 My current stack is laravel.
+- 🌱 My current stack is Laravel and MERN.
 - 👯 I’m looking join a team to utilize my skills.
-- 🥅 2021 Goals: Find work after finishing my studies.
+- 🥅 2022 Goals: Work with more developers through doing more freelancing.
 - ⚡ Fun fact: My dog is always next to me when I'm coding.
 
 ### Connect with me:
