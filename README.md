@@ -2,7 +2,9 @@
 
 ## I'm a Student, Programmer, and Developer!!
 
-- 🌱 My current stack is Laravel and MERN.
+- 🌱 Laravel Developer.
+- 🌱 Node Developer.
+- 🥞 Full Stack Developer.
 - 👯 I’m looking join a team to utilize my skills.
 - 🥅 2022 Goals: Work with more developers through doing more freelancing.
 - ⚡ Fun fact: My dog is always next to me when I'm coding.
