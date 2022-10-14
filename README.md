@@ -1,6 +1,6 @@
 ### Hi there, I'm Daryl - aka [weishengit][website]
 
-## I'm a Student, Programmer, and Developer!!
+## I'm a Web Developer!!
 
 - 🌱 Laravel Developer.
 - 🌱 Node Developer.
