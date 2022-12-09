@@ -1,4 +1,4 @@
-### Hi there, I'm Daryl - aka [weishengit][website]
+### Hi there, I'm Daryl - aka weishengit
 
 ## I'm a Web Developer!!
 
